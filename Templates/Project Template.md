@@ -1,14 +1,9 @@
 ---
 created: <% tp.file.creation_date() %>
 ---
-## Tasks
+## Project Tasks
 
-
-## Documents
-
-
-## Notes
-
+## Documents, Links, Notes
 
 ## Log
 ```dataview

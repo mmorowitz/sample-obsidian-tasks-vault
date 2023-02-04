@@ -16,7 +16,3 @@ not done
 table file.cday as "Created" from [[<% tp.file.title %>]]
 sort file.cday DESC
 ```
-
-## Bio
-- Location
-- Family

@@ -1,9 +1,7 @@
 ---
-created: 2023-01-29 15:49
+created: 2023-02-04 13:09
 ---
-
-# Person Name
-Title, company, how I know them
+Project Manager, ACME Widgets
 
 ## Open Items
 ```tasks
@@ -16,7 +14,3 @@ not done
 table file.cday as "Created" from [[@John Doe]]
 sort file.cday DESC
 ```
-
-## Bio
-- Chicago, IL
-- Wife: Jane
